@@ -1,10 +1,10 @@
-package main
+package chapters
 
 import "fmt"
 
-func main() {
+func Chapter1() {
 	fmt.Println("Chapter 1 Exercises")
-	
+
 	/* Code Magnets, page 18 */
 	var originalCount int = 10
 	var eatenCount int = 4
