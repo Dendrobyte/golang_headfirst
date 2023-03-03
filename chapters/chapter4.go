@@ -1,7 +1,5 @@
 package chapters
 
 func Chapter4() {
-	
+	// All about packages, not much to code really
 }
-
-// Next chapter is packages, but I'll end on a good note today...
